@@ -1,0 +1,102 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "huh",
+			"text": "Ummm...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		},
+		{
+			"expression": "huh",
+			"text": "Who are you?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		},
+		{
+			"expression": "squint",
+			"text": "And why are you so small...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		},
+		{
+			"expression": "talk",
+			"text": "Skeebop da beep.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "huh",
+			"text": "Oh...that's a weird name.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		},
+		{
+			"expression": "shock",
+			"text": "Wait a second...how can I understand you?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep bop skeedeep.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "squint",
+			"text": "I mean I guess that makes sense.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep bop beep?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shock",
+			"text": "Wait. You want to rap battle a total stranger that you just met and barley even know?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "snark",
+			"text": "Okay i'm down. You better keep up though.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		},
+		{
+			"expression": "talk",
+			"text": "Boop!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

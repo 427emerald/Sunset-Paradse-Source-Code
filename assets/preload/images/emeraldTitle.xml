@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="emeraldTitle.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="emeraldTitle0000" x="0" y="0" width="953" height="847"/>
+	<SubTexture name="emeraldTitle0001" x="953" y="0" width="936" height="829" frameX="-9" frameY="-9" frameWidth="953" frameHeight="847"/>
+	<SubTexture name="emeraldTitle0002" x="1889" y="0" width="919" height="809" frameX="-17" frameY="-19" frameWidth="953" frameHeight="847"/>
+	<SubTexture name="emeraldTitle0003" x="2808" y="0" width="901" height="789" frameX="-26" frameY="-29" frameWidth="953" frameHeight="847"/>
+	<SubTexture name="emeraldTitle0004" x="0" y="847" width="884" height="768" frameX="-34" frameY="-39" frameWidth="953" frameHeight="847"/>
+	<SubTexture name="emeraldTitle0005" x="0" y="847" width="884" height="768" frameX="-34" frameY="-39" frameWidth="953" frameHeight="847"/>
+	<SubTexture name="emeraldTitle0006" x="0" y="847" width="884" height="768" frameX="-34" frameY="-39" frameWidth="953" frameHeight="847"/>
+	<SubTexture name="emeraldTitle0007" x="0" y="847" width="884" height="768" frameX="-34" frameY="-39" frameWidth="953" frameHeight="847"/>
+	<SubTexture name="emeraldTitle0008" x="0" y="847" width="884" height="768" frameX="-34" frameY="-39" frameWidth="953" frameHeight="847"/>
+	<SubTexture name="emeraldTitle0009" x="0" y="847" width="884" height="768" frameX="-34" frameY="-39" frameWidth="953" frameHeight="847"/>
+	<SubTexture name="emeraldTitle0010" x="0" y="847" width="884" height="768" frameX="-34" frameY="-39" frameWidth="953" frameHeight="847"/>
+	<SubTexture name="emeraldTitle0011" x="0" y="847" width="884" height="768" frameX="-34" frameY="-39" frameWidth="953" frameHeight="847"/>
+	<SubTexture name="emeraldTitle0012" x="0" y="847" width="884" height="768" frameX="-34" frameY="-39" frameWidth="953" frameHeight="847"/>
+	<SubTexture name="emeraldTitle0013" x="0" y="847" width="884" height="768" frameX="-34" frameY="-39" frameWidth="953" frameHeight="847"/>
+	<SubTexture name="emeraldTitle0014" x="0" y="847" width="884" height="768" frameX="-34" frameY="-39" frameWidth="953" frameHeight="847"/>
+</TextureAtlas>

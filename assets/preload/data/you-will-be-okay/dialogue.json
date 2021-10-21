@@ -1,0 +1,165 @@
+{
+	"dialogue": [
+		{
+			"expression": "huh",
+			"text": "Wow",
+			"boxState": "normal",
+			"portrait": "emerald",
+			"speed": 0.05
+		},
+		{
+			"expression": "shock",
+			"text": "That sounded better than I thought it would.",
+			"boxState": "normal",
+			"portrait": "emerald",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Skebeep!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "snark",
+			"text": "Heh...always cracking jokes I see.",
+			"boxState": "normal",
+			"portrait": "emerald",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "",
+			"boxState": "normal",
+			"portrait": "bf_smug",
+			"speed": 0.05
+		},
+		{
+			"expression": "squint",
+			"text": "Right...",
+			"boxState": "normal",
+			"portrait": "emerald",
+			"speed": 0.05
+		},
+		{
+			"expression": "shock",
+			"text": "Anyways it's pretty dark out here now. We've been going at it for a while.",
+			"boxState": "normal",
+			"portrait": "emerald",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Bap dobeep!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "shock",
+			"text": "One more song huh?",
+			"boxState": "normal",
+			"portrait": "emerald",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Skaa.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "huh",
+			"text": "I'm not even sure how you still have the energy to sing...I mean I have to meet up with a friend later.",
+			"boxState": "normal",
+			"portrait": "emerald",
+			"speed": 0.05
+		},
+		{
+			"expression": "snark",
+			"text": "But alright.",
+			"boxState": "normal",
+			"portrait": "emerald",
+			"speed": 0.05
+		},
+		{
+			"expression": "shock",
+			"text": "Mind you that this is a song I picked up from a show I watch. So it's not entirely mine.",
+			"boxState": "normal",
+			"portrait": "emerald",
+			"speed": 0.05
+		},
+		{
+			"expression": "shock",
+			"text": "Also it's a slow song. I want to sing it because it's night and the stars are out.",
+			"boxState": "normal",
+			"portrait": "emerald",
+			"speed": 0.05
+		},
+		{
+			"expression": "huh",
+			"text": "You don't mind right?",
+			"boxState": "normal",
+			"portrait": "emerald",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Boop!",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "snark",
+			"text": "Alright then.",
+			"boxState": "normal",
+			"portrait": "emerald",
+			"speed": 0.05
+		},
+		{
+			"expression": "snark",
+			"text": "Oh and one more thing",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "snark",
+			"text": "I had fun singing with you. I just don't get why you keep saying beeps and boops.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		},
+		{
+			"expression": "talk",
+			"text": "Bap!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "squint",
+			"text": "....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		},
+		{
+			"expression": "squint",
+			"text": "learn to take a compliment man...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		}
+	]
+}

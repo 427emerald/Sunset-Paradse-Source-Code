@@ -1,0 +1,88 @@
+{
+	"dialogue": [
+		{
+			"expression": "snark",
+			"text": "Not bad little dude!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep!",
+			"boxState": "angry",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "squint",
+			"text": "What? You're little.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		},
+		{
+			"expression": "huh",
+			"text": "And you're a dude...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		},
+		{
+			"expression": "talk",
+			"text": "......",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "huh",
+			"text": "Moving on then.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		},
+		{
+			"expression": "snark",
+			"text": "For this next song i'm gonna step up the pace a little bit.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		},
+		{
+			"expression": "snark",
+			"text": "See if you can keep up.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		},
+		{
+			"expression": "huh",
+			"text": "Not saying you won't be able to.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		},
+		{
+			"expression": "talk",
+			"text": "Boop!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "squint",
+			"text": ".....",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		},
+		{
+			"expression": "huh",
+			"text": "No one likes a showoff.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		}
+	]
+}

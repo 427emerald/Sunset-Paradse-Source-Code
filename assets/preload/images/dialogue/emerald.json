@@ -1,0 +1,76 @@
+{
+	"position": [
+		80,
+		-30
+	],
+	"dialogue_pos": "left",
+	"scale": 0.849999999999999,
+	"image": "emerald_portrait",
+	"animations": [
+		{
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "emerald_dia",
+			"loop_name": "emerald_dia"
+		},
+		{
+			"loop_name": "huh",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "huh",
+			"anim": "huh",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "shock",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "shock",
+			"anim": "shock",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "snark",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "snark",
+			"anim": "snark",
+			"loop_offsets": [
+				0,
+				0
+			]
+		},
+		{
+			"loop_name": "squint",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "squint",
+			"anim": "squint",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	]
+}

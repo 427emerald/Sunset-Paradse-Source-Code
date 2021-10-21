@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="emerald_portrait.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="huh0000" x="0" y="0" width="555" height="533"/>
+	<SubTexture name="huh0001" x="0" y="0" width="555" height="533"/>
+	<SubTexture name="huh0002" x="0" y="0" width="555" height="533"/>
+	<SubTexture name="huh0003" x="0" y="0" width="555" height="533"/>
+	<SubTexture name="huh0004" x="0" y="0" width="555" height="533"/>
+	<SubTexture name="shock0000" x="555" y="0" width="555" height="533"/>
+	<SubTexture name="shock0001" x="555" y="0" width="555" height="533"/>
+	<SubTexture name="shock0002" x="555" y="0" width="555" height="533"/>
+	<SubTexture name="shock0003" x="555" y="0" width="555" height="533"/>
+	<SubTexture name="shock0004" x="555" y="0" width="555" height="533"/>
+	<SubTexture name="snark0000" x="1110" y="0" width="555" height="533"/>
+	<SubTexture name="snark0001" x="1110" y="0" width="555" height="533"/>
+	<SubTexture name="snark0002" x="1110" y="0" width="555" height="533"/>
+	<SubTexture name="snark0003" x="1110" y="0" width="555" height="533"/>
+	<SubTexture name="snark0004" x="1110" y="0" width="555" height="533"/>
+	<SubTexture name="squint0000" x="0" y="533" width="555" height="533"/>
+	<SubTexture name="squint0001" x="0" y="533" width="555" height="533"/>
+	<SubTexture name="squint0002" x="0" y="533" width="555" height="533"/>
+	<SubTexture name="squint0003" x="0" y="533" width="555" height="533"/>
+	<SubTexture name="squint0004" x="0" y="533" width="555" height="533"/>
+</TextureAtlas>

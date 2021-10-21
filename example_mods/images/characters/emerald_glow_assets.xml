@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="emerald_assets.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="emerald_confused0000" x="0" y="0" width="348" height="609"/>
+	<SubTexture name="emerald_confused0001" x="0" y="0" width="348" height="609"/>
+	<SubTexture name="emerald_confused0002" x="0" y="0" width="348" height="609"/>
+	<SubTexture name="emerald_confused0003" x="0" y="0" width="348" height="609"/>
+	<SubTexture name="emerald_confused0004" x="0" y="0" width="348" height="609"/>
+	<SubTexture name="emerald_confused0005" x="0" y="0" width="348" height="609"/>
+	<SubTexture name="emerald_confused0006" x="0" y="0" width="348" height="609"/>
+	<SubTexture name="emerald_confused0007" x="0" y="0" width="348" height="609"/>
+	<SubTexture name="emerald_confused0008" x="0" y="0" width="348" height="609"/>
+	<SubTexture name="emerald_confused0009" x="0" y="0" width="348" height="609"/>
+	<SubTexture name="emerald_confused0010" x="0" y="0" width="348" height="609"/>
+	<SubTexture name="emerald_confused0011" x="0" y="0" width="348" height="609"/>
+	<SubTexture name="emerald_confused0012" x="0" y="0" width="348" height="609"/>
+	<SubTexture name="emerald_confused0013" x="0" y="0" width="348" height="609"/>
+	<SubTexture name="emerald_confused0014" x="0" y="0" width="348" height="609"/>
+	<SubTexture name="emerald_down0000" x="348" y="0" width="369" height="543" frameX="0" frameY="-2" frameWidth="369" frameHeight="546"/>
+	<SubTexture name="emerald_down0001" x="717" y="0" width="367" height="545" frameX="0" frameY="-1" frameWidth="369" frameHeight="546"/>
+	<SubTexture name="emerald_down0002" x="1084" y="0" width="366" height="546" frameX="0" frameY="0" frameWidth="369" frameHeight="546"/>
+	<SubTexture name="emerald_down0003" x="1084" y="0" width="366" height="546" frameX="0" frameY="0" frameWidth="369" frameHeight="546"/>
+	<SubTexture name="emerald_down0004" x="1084" y="0" width="366" height="546" frameX="0" frameY="0" frameWidth="369" frameHeight="546"/>
+	<SubTexture name="emerald_down0005" x="1084" y="0" width="366" height="546" frameX="0" frameY="0" frameWidth="369" frameHeight="546"/>
+	<SubTexture name="emerald_down0006" x="1084" y="0" width="366" height="546" frameX="0" frameY="0" frameWidth="369" frameHeight="546"/>
+	<SubTexture name="emerald_down0007" x="1084" y="0" width="366" height="546" frameX="0" frameY="0" frameWidth="369" frameHeight="546"/>
+	<SubTexture name="emerald_down0008" x="1084" y="0" width="366" height="546" frameX="0" frameY="0" frameWidth="369" frameHeight="546"/>
+	<SubTexture name="emerald_down0009" x="1084" y="0" width="366" height="546" frameX="0" frameY="0" frameWidth="369" frameHeight="546"/>
+	<SubTexture name="emerald_idle0000" x="1450" y="0" width="360" height="621"/>
+	<SubTexture name="emerald_idle0001" x="1810" y="0" width="358" height="620" frameX="0" frameY="-1" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="emerald_idle0002" x="2168" y="0" width="357" height="617" frameX="0" frameY="-3" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="emerald_idle0003" x="2525" y="0" width="355" height="615" frameX="0" frameY="-4" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="emerald_idle0004" x="2880" y="0" width="354" height="614" frameX="0" frameY="-5" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="emerald_idle0005" x="2880" y="0" width="354" height="614" frameX="0" frameY="-5" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="emerald_idle0006" x="2880" y="0" width="354" height="614" frameX="0" frameY="-5" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="emerald_idle0007" x="2880" y="0" width="354" height="614" frameX="0" frameY="-5" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="emerald_idle0008" x="2880" y="0" width="354" height="614" frameX="0" frameY="-5" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="emerald_idle0009" x="2880" y="0" width="354" height="614" frameX="0" frameY="-5" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="emerald_idle0010" x="2880" y="0" width="354" height="614" frameX="0" frameY="-5" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="emerald_idle0011" x="2880" y="0" width="354" height="614" frameX="0" frameY="-5" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="emerald_idle0012" x="2880" y="0" width="354" height="614" frameX="0" frameY="-5" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="emerald_idle0013" x="2880" y="0" width="354" height="614" frameX="0" frameY="-5" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="emerald_idle0014" x="2880" y="0" width="354" height="614" frameX="0" frameY="-5" frameWidth="360" frameHeight="621"/>
+	<SubTexture name="emerald_left0000" x="3234" y="0" width="412" height="617" frameX="-2" frameY="0" frameWidth="424" frameHeight="617"/>
+	<SubTexture name="emerald_left0001" x="3646" y="0" width="418" height="617" frameX="-1" frameY="0" frameWidth="424" frameHeight="617"/>
+	<SubTexture name="emerald_left0002" x="0" y="621" width="424" height="617"/>
+	<SubTexture name="emerald_left0003" x="0" y="621" width="424" height="617"/>
+	<SubTexture name="emerald_left0004" x="0" y="621" width="424" height="617"/>
+	<SubTexture name="emerald_left0005" x="0" y="621" width="424" height="617"/>
+	<SubTexture name="emerald_left0006" x="0" y="621" width="424" height="617"/>
+	<SubTexture name="emerald_left0007" x="0" y="621" width="424" height="617"/>
+	<SubTexture name="emerald_left0008" x="0" y="621" width="424" height="617"/>
+	<SubTexture name="emerald_left0009" x="0" y="621" width="424" height="617"/>
+	<SubTexture name="emerald_nice0000" x="424" y="621" width="431" height="641" frameX="0" frameY="-5" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0001" x="855" y="621" width="431" height="642" frameX="0" frameY="-4" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0002" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0003" x="1717" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0004" x="2148" y="621" width="431" height="648" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0005" x="2148" y="621" width="431" height="648" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0006" x="2148" y="621" width="431" height="648" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0007" x="2148" y="621" width="431" height="648" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0008" x="2148" y="621" width="431" height="648" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0009" x="2579" y="621" width="432" height="651"/>
+	<SubTexture name="emerald_nice0010" x="3011" y="621" width="432" height="650" frameX="0" frameY="-1" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0011" x="3011" y="621" width="432" height="650" frameX="0" frameY="-1" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0012" x="3011" y="621" width="432" height="650" frameX="0" frameY="-1" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0013" x="3011" y="621" width="432" height="650" frameX="0" frameY="-1" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0014" x="3443" y="621" width="432" height="649" frameX="0" frameY="-1" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0015" x="0" y="1272" width="432" height="649" frameX="0" frameY="-1" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0016" x="0" y="1272" width="432" height="649" frameX="0" frameY="-1" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0017" x="432" y="1272" width="432" height="648" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0018" x="864" y="1272" width="432" height="648" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0019" x="864" y="1272" width="432" height="648" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0020" x="864" y="1272" width="432" height="648" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0021" x="864" y="1272" width="432" height="648" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0022" x="864" y="1272" width="432" height="648" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0023" x="864" y="1272" width="432" height="648" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0024" x="864" y="1272" width="432" height="648" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0025" x="864" y="1272" width="432" height="648" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0026" x="864" y="1272" width="432" height="648" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0027" x="864" y="1272" width="432" height="648" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0028" x="864" y="1272" width="432" height="648" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0029" x="864" y="1272" width="432" height="648" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0030" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0031" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0032" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0033" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0034" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0035" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0036" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0037" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0038" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0039" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0040" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0041" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0042" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0043" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0044" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0045" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0046" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0047" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0048" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0049" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0050" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0051" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0052" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0053" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0054" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0055" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0056" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0057" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0058" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0059" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0060" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0061" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0062" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_nice0063" x="1286" y="621" width="431" height="647" frameX="0" frameY="-2" frameWidth="432" frameHeight="651"/>
+	<SubTexture name="emerald_right0000" x="1296" y="1272" width="432" height="647" frameX="-7" frameY="0" frameWidth="439" frameHeight="647"/>
+	<SubTexture name="emerald_right0001" x="1296" y="1272" width="432" height="647" frameX="-7" frameY="0" frameWidth="439" frameHeight="647"/>
+	<SubTexture name="emerald_right0002" x="1728" y="1272" width="439" height="647"/>
+	<SubTexture name="emerald_right0003" x="1728" y="1272" width="439" height="647"/>
+	<SubTexture name="emerald_right0004" x="1728" y="1272" width="439" height="647"/>
+	<SubTexture name="emerald_right0005" x="1728" y="1272" width="439" height="647"/>
+	<SubTexture name="emerald_right0006" x="1728" y="1272" width="439" height="647"/>
+	<SubTexture name="emerald_right0007" x="1728" y="1272" width="439" height="647"/>
+	<SubTexture name="emerald_right0008" x="1728" y="1272" width="439" height="647"/>
+	<SubTexture name="emerald_right0009" x="1728" y="1272" width="439" height="647"/>
+	<SubTexture name="emerald_up0000" x="2167" y="1272" width="419" height="706" frameX="0" frameY="0" frameWidth="419" frameHeight="712"/>
+	<SubTexture name="emerald_up0001" x="2586" y="1272" width="418" height="709" frameX="0" frameY="0" frameWidth="419" frameHeight="712"/>
+	<SubTexture name="emerald_up0002" x="3004" y="1272" width="417" height="711" frameX="0" frameY="-1" frameWidth="419" frameHeight="712"/>
+	<SubTexture name="emerald_up0003" x="3004" y="1272" width="417" height="711" frameX="0" frameY="-1" frameWidth="419" frameHeight="712"/>
+	<SubTexture name="emerald_up0004" x="3004" y="1272" width="417" height="711" frameX="0" frameY="-1" frameWidth="419" frameHeight="712"/>
+	<SubTexture name="emerald_up0005" x="3004" y="1272" width="417" height="711" frameX="0" frameY="-1" frameWidth="419" frameHeight="712"/>
+	<SubTexture name="emerald_up0006" x="3004" y="1272" width="417" height="711" frameX="0" frameY="-1" frameWidth="419" frameHeight="712"/>
+	<SubTexture name="emerald_up0007" x="3004" y="1272" width="417" height="711" frameX="0" frameY="-1" frameWidth="419" frameHeight="712"/>
+	<SubTexture name="emerald_up0008" x="3004" y="1272" width="417" height="711" frameX="0" frameY="-1" frameWidth="419" frameHeight="712"/>
+	<SubTexture name="emerald_up0009" x="3004" y="1272" width="417" height="711" frameX="0" frameY="-1" frameWidth="419" frameHeight="712"/>
+</TextureAtlas>

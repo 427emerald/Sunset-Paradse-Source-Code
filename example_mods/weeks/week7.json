@@ -1,0 +1,48 @@
+{
+	"storyName": "427emerald",
+	"hideFreeplay": false,
+	"weekBackground": "streets",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"emerald",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Dream Fever",
+			"emerald",
+			[
+				155,
+				240,
+				95
+			]
+		],
+		[
+			"Happy Days",
+			"emerald",
+			[
+				146,
+				233,
+				253
+			]
+		],
+		[
+			"You Will Be Okay",
+			"emerald",
+			[
+				0,
+				53,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 7"
+}

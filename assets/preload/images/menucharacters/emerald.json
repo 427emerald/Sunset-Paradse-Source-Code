@@ -1,0 +1,10 @@
+{
+	"idle_anim": "emerald_story",
+	"image": "Menu_Emerald",
+	"position": [
+		74,
+		90
+	],
+	"scale": 0.75,
+	"confirm_anim": "M Dad Idle"
+}
