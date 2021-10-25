@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf_portrait0000" x="0" y="0" width="327" height="234"/>
+	<SubTexture name="gf_portrait0001" x="0" y="0" width="327" height="234"/>
+	<SubTexture name="gf_portrait0002" x="0" y="0" width="327" height="234"/>
+	<SubTexture name="gf_portrait0003" x="0" y="0" width="327" height="234"/>
+	<SubTexture name="gf_portrait0004" x="0" y="0" width="327" height="234"/>
+	<SubTexture name="gf_portrait0005" x="0" y="0" width="327" height="234"/>
+	<SubTexture name="gf_portrait0006" x="0" y="0" width="327" height="234"/>
+	<SubTexture name="gf_portrait0007" x="0" y="0" width="327" height="234"/>
+	<SubTexture name="gf_portrait0008" x="0" y="0" width="327" height="234"/>
+	<SubTexture name="gf_portrait0009" x="0" y="0" width="327" height="234"/>
+	<SubTexture name="gf_portrait0010" x="0" y="0" width="327" height="234"/>
+	<SubTexture name="gf_portrait0011" x="0" y="0" width="327" height="234"/>
+	<SubTexture name="gf_portrait0012" x="0" y="0" width="327" height="234"/>
+	<SubTexture name="gf_portrait0013" x="0" y="0" width="327" height="234"/>
+	<SubTexture name="gf_portrait0014" x="0" y="0" width="327" height="234"/>
+	<SubTexture name="gf_portrait0015" x="0" y="0" width="327" height="234"/>
+</TextureAtlas>

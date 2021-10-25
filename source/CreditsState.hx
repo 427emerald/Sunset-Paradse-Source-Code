@@ -24,9 +24,9 @@ class CreditsState extends MusicBeatState
 	private var iconArray:Array<AttachedSprite> = [];
 
 	private static var creditsStuff:Array<Dynamic> = [ //Name - Icon name - Description - Link - BG Color
-		['VS 427emerald Team'],
-		['427emerald',		'427emerald',		'Main Programmer and artist of VS 427emerald',					'https://www.youtube.com/c/427emerald/featured',	0xFFFFDD33],
-		['NateTheGreat15',			'Nate',		'Composer of VS 427emerald',				'https://www.youtube.com/channel/UCg_SvhxXPURMlU6RLMm3NIg',		0xFFC30085],
+		['Sunset Paradise Team'],
+		['427emerald',		'427emerald',		'Main Programmer and artist of Sunset Paradise',					'https://www.youtube.com/c/427emerald/featured',	0xFFFFDD33],
+		['NateTheGreat15',			'Nate',		'Composer of Sunset Paradise',				'https://www.youtube.com/channel/UCg_SvhxXPURMlU6RLMm3NIg',		0xFFC30085],
 		[''],
 		['Psych Engine Team'],
 		['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',					'https://twitter.com/Shadow_Mario_',	0xFFFFDD33],

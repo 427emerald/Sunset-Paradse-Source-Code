@@ -1,165 +1,165 @@
 {
 	"dialogue": [
 		{
+			"speed": 0.05,
+			"portrait": "emerald",
+			"boxState": "normal",
 			"expression": "huh",
-			"text": "Wow",
-			"boxState": "normal",
-			"portrait": "emerald",
-			"speed": 0.05
+			"text": "Alright I admit defeat."
 		},
 		{
-			"expression": "shock",
-			"text": "That sounded better than I thought it would.",
-			"boxState": "normal",
+			"speed": 0.05,
 			"portrait": "emerald",
-			"speed": 0.05
-		},
-		{
+			"boxState": "normal",
 			"expression": "talk",
-			"text": "Skebeep!",
-			"boxState": "normal",
+			"text": "You're REALLY good at this thing."
+		},
+		{
+			"speed": 0.05,
 			"portrait": "bf",
-			"speed": 0.05
-		},
-		{
-			"expression": "snark",
-			"text": "Heh...always cracking jokes I see.",
 			"boxState": "normal",
-			"portrait": "emerald",
-			"speed": 0.05
-		},
-		{
 			"expression": "talk",
-			"text": "",
-			"boxState": "normal",
-			"portrait": "bf_smug",
-			"speed": 0.05
+			"text": "Well we have been battling multiple enemies left and right, so I guess it paid off."
 		},
 		{
+			"speed": 0.05,
+			"portrait": "emerald",
+			"boxState": "normal",
+			"expression": "shock",
+			"text": "I see..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "emerald",
+			"boxState": "normal",
+			"expression": "shock",
+			"text": "Well it's getting late, and I never even noticed\\nthe sun went down. Heh.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "emerald",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I guess we should start packing up for the night."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Do you think you have time for one more song?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "emerald",
+			"boxState": "normal",
 			"expression": "squint",
-			"text": "Right...",
-			"boxState": "normal",
-			"portrait": "emerald",
-			"speed": 0.05
+			"text": "One more song huh?"
 		},
 		{
-			"expression": "shock",
-			"text": "Anyways it's pretty dark out here now. We've been going at it for a while.",
-			"boxState": "normal",
-			"portrait": "emerald",
-			"speed": 0.05
-		},
-		{
-			"expression": "talk",
-			"text": "Bap dobeep!",
-			"boxState": "normal",
+			"speed": 0.05,
 			"portrait": "bf",
-			"speed": 0.05
-		},
-		{
-			"expression": "shock",
-			"text": "One more song huh?",
 			"boxState": "normal",
-			"portrait": "emerald",
-			"speed": 0.05
-		},
-		{
 			"expression": "talk",
-			"text": "Skaa.",
-			"boxState": "normal",
-			"portrait": "bf",
-			"speed": 0.05
+			"text": "Well we wanna leave on a good note you know? We don't want to leave without saying goodbye."
 		},
 		{
-			"expression": "huh",
-			"text": "I'm not even sure how you still have the energy to sing...I mean I have to meet up with a friend later.",
-			"boxState": "normal",
-			"portrait": "emerald",
-			"speed": 0.05
-		},
-		{
-			"expression": "snark",
-			"text": "But alright.",
-			"boxState": "normal",
-			"portrait": "emerald",
-			"speed": 0.05
-		},
-		{
-			"expression": "shock",
-			"text": "Mind you that this is a song I picked up from a show I watch. So it's not entirely mine.",
-			"boxState": "normal",
-			"portrait": "emerald",
-			"speed": 0.05
-		},
-		{
-			"expression": "shock",
-			"text": "Also it's a slow song. I want to sing it because it's night and the stars are out.",
-			"boxState": "normal",
-			"portrait": "emerald",
-			"speed": 0.05
-		},
-		{
-			"expression": "huh",
-			"text": "You don't mind right?",
-			"boxState": "normal",
-			"portrait": "emerald",
-			"speed": 0.05
-		},
-		{
-			"expression": "talk",
-			"text": "Boop!",
-			"boxState": "normal",
-			"portrait": "bf",
-			"speed": 0.05
-		},
-		{
-			"expression": "snark",
-			"text": "Alright then.",
-			"boxState": "normal",
-			"portrait": "emerald",
-			"speed": 0.05
-		},
-		{
-			"expression": "snark",
-			"text": "Oh and one more thing",
-			"boxState": "normal",
 			"speed": 0.05,
-			"portrait": "emerald"
-		},
-		{
-			"expression": "talk",
-			"text": "Beep?",
+			"portrait": "emerald",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
-		},
-		{
-			"expression": "snark",
-			"text": "I had fun singing with you. I just don't get why you keep saying beeps and boops.",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "emerald"
-		},
-		{
-			"expression": "talk",
-			"text": "Bap!",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
-		},
-		{
 			"expression": "squint",
-			"text": "....",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "emerald"
+			"text": "I see."
 		},
 		{
-			"expression": "squint",
-			"text": "learn to take a compliment man...",
-			"boxState": "normal",
 			"speed": 0.05,
-			"portrait": "emerald"
+			"portrait": "emerald",
+			"boxState": "normal",
+			"expression": "snark",
+			"text": "Alright you've convinced me. "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "emerald",
+			"boxState": "normal",
+			"expression": "snark",
+			"text": "We'll do one more song as a goodbye tribute."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Awesome!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "emerald",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Before we start though, just letting you know this final song isn't exactly mine."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "emerald",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I picked it up from a show I watch. I think it will really fit this situation."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's fine by me!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "emerald",
+			"boxState": "normal",
+			"expression": "snark",
+			"text": "Great!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "emerald",
+			"boxState": "normal",
+			"expression": "snark",
+			"text": "And before you go, thank you for checking out the city and rocking out tonight. I hope to see you back soon."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Of course we'll be back! This place is pretty amazing if you ask me."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I agree. The view from here is really beautiful."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "emerald",
+			"boxState": "normal",
+			"expression": "snark",
+			"text": "I'm glad to here it."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "emerald",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright, time for the final song."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Ready when you are!"
 		}
 	]
 }

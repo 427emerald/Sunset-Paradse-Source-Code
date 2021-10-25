@@ -160,16 +160,16 @@ class TitleState extends MusicBeatState
 		Conductor.changeBPM(102);
 		persistentUpdate = true;
 
-		var bg:FlxSprite = new FlxSprite(-100, -65).loadGraphic(Paths.image('emeraldMenuTitle2'));
+		var bg:FlxSprite = new FlxSprite(-100, -50).loadGraphic(Paths.image('emeraldMenuTitle2'));
 		// bg.antialiasing = ClientPrefs.globalAntialiasing;
 		// bg.setGraphicSize(Std.int(bg.width * 0.6));
 		// bg.updateHitbox();
 		add(bg);
 
-		logoBl = new FlxSprite(-100, -100);
-		logoBl.frames = Paths.getSparrowAtlas('emeraldLogoBumpin');
+		logoBl = new FlxSprite(-50, -5);
+		logoBl.frames = Paths.getSparrowAtlas('paradiseLogoBumpin');
 		logoBl.antialiasing = ClientPrefs.globalAntialiasing;
-		logoBl.animation.addByPrefix('bump', 'logo', 24);
+		logoBl.animation.addByPrefix('bump', 'paradise_bumpin', 24);
 		logoBl.animation.play('bump');
 		logoBl.updateHitbox();
 		// logoBl.screenCenter();
@@ -178,9 +178,9 @@ class TitleState extends MusicBeatState
 		swagShader = new ColorSwap();
 		if(!FlxG.save.data.psykaEasterEgg || !easterEggEnabled) {
 			gfDance = new FlxSprite(FlxG.width * 0.4, FlxG.height * 0.07);
-			gfDance.frames = Paths.getSparrowAtlas('emeraldTitle');
-			gfDance.animation.addByIndices('danceLeft', 'emeraldTitle', [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
-			gfDance.animation.addByIndices('danceRight', 'emeraldTitle', [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], "", 24, false);
+			gfDance.frames = Paths.getSparrowAtlas('duo_title');
+			gfDance.animation.addByIndices('danceLeft', 'duo_title', [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14], "", 24, false);
+			gfDance.animation.addByIndices('danceRight', 'duo_title', [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], "", 24, false);
 		}
 		else //Psyka easter egg
 		{
@@ -476,8 +476,8 @@ class TitleState extends MusicBeatState
 				case 15:
 					addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
 				case 16:
-					addMoreText('VS 427emerald');
-				// credTextShit.text += '\nVS 427emerald';
+					addMoreText('Sunset Paradise');
+				// credTextShit.text += '\nSunset Paradise';
 
 				case 17:
 					skipIntro();

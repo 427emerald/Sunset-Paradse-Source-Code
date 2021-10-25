@@ -1,88 +1,74 @@
 {
 	"dialogue": [
 		{
-			"expression": "snark",
-			"text": "Not bad little dude!",
+			"speed": 0.05,
+			"portrait": "emerald",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "emerald"
+			"expression": "snark",
+			"text": "Dannngg dude! That was pretty sick!"
 		},
 		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
 			"expression": "talk",
-			"text": "Beep!",
-			"boxState": "angry",
-			"speed": 0.05,
-			"portrait": "bf"
+			"text": "Told you had skills!"
 		},
 		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You weren't so bad yourself!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "emerald",
+			"boxState": "normal",
+			"expression": "snark",
+			"text": "Alright alright. Don't get too ahead of\\nyourself. That was only a warm-up!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "emerald",
+			"boxState": "normal",
+			"expression": "snark",
+			"text": "The fun is just starting!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Fun huh?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Sounds like music to my ears!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "(No pun intended)"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "emerald",
+			"boxState": "normal",
 			"expression": "squint",
-			"text": "What? You're little.",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "emerald"
+			"text": "Yeah i'm gonna let that one slide."
 		},
 		{
-			"expression": "huh",
-			"text": "And you're a dude...",
-			"boxState": "normal",
 			"speed": 0.05,
-			"portrait": "emerald"
-		},
-		{
-			"expression": "talk",
-			"text": "......",
+			"portrait": "emerald",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
-		},
-		{
-			"expression": "huh",
-			"text": "Moving on then.",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "emerald"
-		},
-		{
 			"expression": "snark",
-			"text": "For this next song i'm gonna step up the pace a little bit.",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "emerald"
-		},
-		{
-			"expression": "snark",
-			"text": "See if you can keep up.",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "emerald"
-		},
-		{
-			"expression": "huh",
-			"text": "Not saying you won't be able to.",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "emerald"
-		},
-		{
-			"expression": "talk",
-			"text": "Boop!",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
-		},
-		{
-			"expression": "squint",
-			"text": ".....",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "emerald"
-		},
-		{
-			"expression": "huh",
-			"text": "No one likes a showoff.",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "emerald"
+			"text": "But let's do this thing!"
 		}
 	]
 }

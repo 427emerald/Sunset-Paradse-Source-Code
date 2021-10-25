@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		-70,
+		140
+	],
+	"scale": 1.55,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-1,
+				-11
+			],
+			"loop_name": "gf_portrait",
+			"idle_name": "gf_portrait"
+		}
+	],
+	"image": "GF_Dialogue"
+}

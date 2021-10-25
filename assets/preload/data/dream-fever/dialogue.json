@@ -1,100 +1,149 @@
 {
 	"dialogue": [
 		{
-			"expression": "talk",
-			"text": "Beep!",
+			"expression": "shock",
+			"text": "Oh! Hello.",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "emerald",
+			"speed": 0.05
 		},
 		{
-			"expression": "huh",
-			"text": "Ummm...",
-			"boxState": "normal",
 			"speed": 0.05,
-			"portrait": "emerald"
-		},
-		{
-			"expression": "huh",
-			"text": "Who are you?",
+			"portrait": "emerald",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "emerald"
-		},
-		{
 			"expression": "squint",
-			"text": "And why are you so small...",
+			"text": "Ummmmm...you two must be new i'm assuming..."
+		},
+		{
+			"expression": "snark",
+			"text": "Welcome to Sunset Paradise!",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "emerald"
+			"portrait": "emerald",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
-			"text": "Skeebop da beep.",
+			"text": "Sunset what now?",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
-		},
-		{
-			"expression": "huh",
-			"text": "Oh...that's a weird name.",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "emerald"
+			"portrait": "bf",
+			"speed": 0.05
 		},
 		{
 			"expression": "shock",
-			"text": "Wait a second...how can I understand you?",
+			"text": "Sunset Paradise..the city you're currently standing in.",
 			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "emerald"
+			"portrait": "emerald",
+			"speed": 0.05
+		},
+		{
+			"expression": "snark",
+			"text": "Anywho i'm 427emerald. Although my friends call me AK. 427emerald is my Youtube \\nname...heh",
+			"boxState": "normal",
+			"portrait": "emerald",
+			"speed": 0.05
+		},
+		{
+			"expression": "snark",
+			"text": "I'm here to make sure you have the best time of you're life!",
+			"boxState": "normal",
+			"portrait": "emerald",
+			"speed": 0.05
+		},
+		{
+			"expression": "snark",
+			"text": "By that I mean show you around, show you the arcade, all that good stuff.",
+			"boxState": "normal",
+			"portrait": "emerald",
+			"speed": 0.05
 		},
 		{
 			"expression": "talk",
-			"text": "Beep bop skeedeep.",
+			"text": "Oh, we're not here to stay. We're just visiting.\\nTrying to get away from all the drama you know?",
 			"boxState": "normal",
 			"speed": 0.05,
-			"portrait": "bf"
-		},
-		{
-			"expression": "squint",
-			"text": "I mean I guess that makes sense.",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "emerald"
-		},
-		{
-			"expression": "talk",
-			"text": "Beep bop beep?",
-			"boxState": "normal",
-			"speed": 0.05,
-			"portrait": "bf"
+			"portrait": "gf"
 		},
 		{
 			"expression": "shock",
-			"text": "Wait. You want to rap battle a total stranger that you just met and barley even know?",
+			"text": "Not staying huh? Bummmmerrr. Never the less, I understand.",
 			"boxState": "normal",
 			"speed": 0.05,
 			"portrait": "emerald"
 		},
 		{
 			"expression": "talk",
-			"text": "Beep!",
+			"text": "Also didn't exactly catch your names earlier...",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		},
+		{
+			"expression": "talk",
+			"text": "Oh, well i'm Girlfriend, and this is Boyfriend.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Yep! Where we come from actually isn't too far from here.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "We just decided to look around and meet new people.",
 			"boxState": "normal",
 			"speed": 0.05,
 			"portrait": "bf"
 		},
 		{
 			"expression": "snark",
-			"text": "Okay i'm down. You better keep up though.",
+			"text": "I seee. Well, anything in particular you have in mind to get your day rolling?",
 			"boxState": "normal",
 			"speed": 0.05,
 			"portrait": "emerald"
 		},
 		{
 			"expression": "talk",
-			"text": "Boop!",
+			"text": "I'd actually like to challenge you to a rap battle if you don't mind.",
 			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "shock",
+			"text": "A rap battle huh? Well thats not exactly my thing, but what the heck. It wouldn't hurt to try right?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		},
+		{
+			"expression": "talk",
+			"text": "I must warn you, Boyfriend is actually pretty good at this type of thing.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "snark",
+			"text": "Well then, we'll see about that. Bring it on little one!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "emerald"
+		},
+		{
+			"expression": "talk",
+			"text": "Alrig-",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "WAIT HEY!!!",
+			"boxState": "angry",
 			"speed": 0.05,
 			"portrait": "bf"
 		}

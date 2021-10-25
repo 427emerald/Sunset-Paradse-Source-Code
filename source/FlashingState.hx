@@ -24,10 +24,10 @@ class FlashingState extends MusicBeatState
 		add(bg);
 
 		warnText = new FlxText(0, 0, FlxG.width,
-			"Yo!\n
-			This mod is based off of a YouTuber!\n
-			Please don't be afraid to subscribe! Link in\n
-			the credits menu when you click 427emerald!\n
+			"Hey!\n
+			Be warned you may see flashing lights when playing.\n
+			If you're not into that kinda stuff, you may feel free to exit.\n
+			Otherwise enjoy!\n
 			Press Escape to proceed.",
 			32);
 		warnText.setFormat("VCR OSD Mono", 32, FlxColor.WHITE, CENTER);
